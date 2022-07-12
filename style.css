@@ -1,0 +1,53 @@
+header {
+    background-color: limegreen;
+    padding: 10px;
+}
+
+header img {
+    width: 70px;
+    height: 70px;
+}
+
+h1 {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    border-bottom: 1px solid black;
+}
+
+main p {
+    padding: 5px;
+    border: darkcyan;
+    border-right: 10px dotted darkcyan;
+    border-left: 10px dotted darkcyan;
+
+}
+
+table {
+    border-collapse: collapse;
+    text-align: center;
+    font-size: 20px;
+    border-color: darkcyan;
+    
+}
+
+td {
+    padding: 5px;
+    border: dotted;
+    border-color: darkcyan;
+
+}
+
+table img{
+    width: 80px;
+}
+
+footer {
+    background-color: lavender;
+    color: darkgreen;
+    font-size: 20px;
+    padding: 10px;
+}
